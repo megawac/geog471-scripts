@@ -1,0 +1,1 @@
+C:\FUSION\groundfilter.exe /gparam:0 /wparam:1 /tolerance:1 /iterations:10 '.\QUBS_LAS\Derived\out.las' 1 .\QUBS_LAS\LAS\3854923.las .\QUBS_LAS\LAS\3854924.las
